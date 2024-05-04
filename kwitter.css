@@ -1,0 +1,15 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  background-color: aqua;
+}
+.header{
+    width: 80%;
+    font-size: 40px;
+}
+.welcome{
+    padding: auto;
+    margin-left : 20%;
+    margin-right: 20%;
+}
